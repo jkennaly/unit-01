@@ -50,6 +50,15 @@ body {
   margin-right: 4em;
 }
 
+.tags {
+  font-size: 1rem;;
+  letter-spacing: 0.05em;
+  line-height: 1.1;
+  text-align: right;
+  margin-right: 4em;
+  font-variant: small-caps;
+}
+
 .source:before {
   content: "—";
 }
